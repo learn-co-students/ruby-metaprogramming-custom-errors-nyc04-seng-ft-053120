@@ -16,7 +16,7 @@ class Person
         puts error.message 
       end
     else
-      erson.partner = self
+      person.partner = self
     end
   end
 
