@@ -277,7 +277,6 @@ an instance of the `PartnerError` class and `puts` out the result of calling
 
 At this point, the code in `custom_errors.rb` should look like this:
 
-```ruby
 class Person
   attr_accessor :partner, :name
 
